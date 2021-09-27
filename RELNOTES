@@ -1,0 +1,7 @@
+Release Notes: CoreNGS 1.0 (UNRELEASED)
+
+This file describes new user-visible features, changes, and updates
+for CoreNGS users/derivatives. Every entry should contain at least
+two sentences and at most five. 
+
+ * Add FreeBSD 14 current source
